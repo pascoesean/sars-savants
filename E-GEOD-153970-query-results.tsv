@@ -1,0 +1,4 @@
+# Expression Atlas
+# Query: Genes matching: 'default query', specifically up/down differentially expressed in 1 comparisons  given the adjusted p-value cutoff 0 and log2-fold change cutoff 1 in experiment E-GEOD-153970
+# Timestamp: Wed, 08-Mar-2023 18:27:59
+Gene ID	Gene Name	'Severe acute respiratory syndrome coronavirus 2' vs 'mock' .foldChange	'Severe acute respiratory syndrome coronavirus 2' vs 'mock'.pValue
